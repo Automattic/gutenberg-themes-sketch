@@ -6,7 +6,7 @@ This repository hosts a set of [Sketch](https://sketchapp.com) files that are bu
 
 The symbols in these files allow you to easily edit and customize styles for all of the default Gutenberg blocks. This makes it easy to iterate on styling blocks for themes, and can help you design in a more modular way. 
 
-PR's and enhancements welcome!
+PRs and enhancements welcome!
 
 ## Files
 
