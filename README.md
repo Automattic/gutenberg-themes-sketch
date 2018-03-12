@@ -6,6 +6,8 @@ This repository hosts a set of [Sketch](https://sketchapp.com) files that are bu
 
 The symbols in these files allow you to easily edit and customize styles for all of the default Gutenberg blocks. This makes it easy to iterate on styling blocks for themes, and can help you design in a more modular way. 
 
+There's an [introductory post on Themeshaper](https://themeshaper.com/2018/03/07/designing-gutenberg-block-driven-themes-with-sketch/) that shows one example of a workflow, but we encourage you to experiment and share what works for you.
+
 PRs and enhancements welcome!
 
 ## Files
